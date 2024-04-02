@@ -17,8 +17,7 @@ Adapted from : https://docs.python.org/3/library/archiving.html
 - [ ] Information theory
  - [ ]   Compression as Artificial Intelligence Problem
 
-## Mathematics Preliminaries
-Adapted from Introduction to Data Compression by Khalid Sayood
+## Mathematics Preliminaries from Data Compression by Khalid Sayood
 - [ ] Introductory Information Theory
 - [ ] Models
   - [ ] Physical Models

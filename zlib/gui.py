@@ -86,7 +86,7 @@ def initial_ui():
     decompress_button.pack()
 
 window = tk.Tk()
-window.title("Compressor and Decompressor")
+window.title("Compressor and Decompressor Module")
 window.geometry("300x200")
 
 initial_ui()

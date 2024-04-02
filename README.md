@@ -5,7 +5,7 @@ Starting April 2nd, I commit to spending half an hour every day for the next 100
 
 ## Python Modules
 Adapted from : https://docs.python.org/3/library/archiving.html
-- [ ] zlib 
+- [x] zlib 
 - [ ] gzip 
 - [ ] bz2
 - [ ] lzma

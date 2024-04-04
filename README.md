@@ -36,7 +36,7 @@ Adapted from : https://docs.python.org/3/library/archiving.html
 
 # Coding techniques
 
-- [ ] Huffman Coding
+- [x] Huffman Coding
 - [ ] Arithmetic Coding
 - [ ] Asymmetric Binary Coding
 - [ ] Numeric Codes

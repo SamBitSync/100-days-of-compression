@@ -26,7 +26,6 @@ Adapted from : https://docs.python.org/3/library/archiving.html
 - [ ] Introductory Information Theory
 - [ ] Models
   - [ ] Physical Models
-  - [ ] Physical Models
   - [ ] Markov Models
   - [ ] Composite Source Model
 - [ ] Coding
